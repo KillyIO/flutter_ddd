@@ -1,1 +1,1 @@
-{"bricks":{"application":{"path":"C:/Users/f.grezes/Projects/flutter_ddd/bricks/application"}}}
+{"bricks":{"application":{"path":"C:/Users/f.grezes/Projects/flutter_ddd/bricks/application"},"domain":{"path":"C:/Users/f.grezes/Projects/flutter_ddd/bricks/domain"},"feature":{"path":"C:/Users/f.grezes/Projects/flutter_ddd/bricks/feature"},"infrastructure":{"path":"C:/Users/f.grezes/Projects/flutter_ddd/bricks/infrastructure"},"presentation":{"path":"C:/Users/f.grezes/Projects/flutter_ddd/bricks/presentation"}}}

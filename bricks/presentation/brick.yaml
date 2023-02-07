@@ -23,6 +23,11 @@ environment:
 vars:
   name:
     type: string
-    description: Your name
+    description: Your presentation name
     default: Dash
-    prompt: What is your name?
+    prompt: What is your presentation name?
+  isStateless:
+    type: boolean
+    description: Your presentation state
+    default: true
+    prompt: Is your presentation stateless?

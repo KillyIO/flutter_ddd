@@ -1,3 +1,11 @@
 bricks:
   application:
     path: bricks/application
+  domain:
+    path: bricks/domain
+  feature:
+    path: bricks/feature
+  infrastructure:
+    path: bricks/infrastructure
+  presentation:
+    path: bricks/presentation
