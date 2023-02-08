@@ -1,11 +1,11 @@
 bricks:
-  application:
+  ddd_application:
     path: bricks/application
-  domain:
+  ddd_domain:
     path: bricks/domain
-  feature:
+  ddd_feature:
     path: bricks/feature
-  infrastructure:
+  ddd_infrastructure:
     path: bricks/infrastructure
-  presentation:
+  ddd_presentation:
     path: bricks/presentation

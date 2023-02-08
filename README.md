@@ -1,2 +1,1 @@
-# flutter_ddd
-DDD architecture brick
+# DDD (Domain-Driven Design) Bricks 🧱
