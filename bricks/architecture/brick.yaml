@@ -1,0 +1,25 @@
+name: ddd_architecture
+description: A new brick created with the Mason CLI.
+
+version: 0.1.0+1
+
+environment:
+  mason: ">=0.1.0-dev.41 <0.1.0"
+
+vars:
+  useObserver:
+    type: boolean
+    description: To create a Bloc observer or not
+    default: true
+    prompt: Do you want to use a Bloc observer?
+  useFlavors:
+    type: boolean
+    description: To use flavors or not
+    default: true
+    prompt: Do you want to use flavors?
+  useInjection:
+    type: boolean
+    description: To use dependncy injection or not
+    default: true
+    prompt: Do you want to use dependency injection?
+

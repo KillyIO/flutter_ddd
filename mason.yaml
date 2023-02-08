@@ -1,6 +1,8 @@
 bricks:
   ddd_application:
     path: bricks/application
+  ddd_architecture:
+    path: bricks/architecture
   ddd_domain:
     path: bricks/domain
   ddd_feature:
